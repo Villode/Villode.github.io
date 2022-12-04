@@ -1,0 +1,15 @@
+.sr{
+    /* filter: progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -o-filter: grayscale(100%); */
+}
+   
+.post-detail-header{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    background-image:url('/medias/1.jpg') !important;
+}
