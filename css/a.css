@@ -4,12 +4,10 @@
     -webkit-filter: grayscale(100%);
     -moz-filter: grayscale(100%);
     -o-filter: grayscale(100%); */
+    backdrop-filter: blur(13px);
+    background-color: rgba(192,196,204,0.40);
 }
-   
-.post-detail-header{
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center center;
-    position: relative;
-    background-image:url('/medias/1.jpg') !important;
+
+.fa-weixin:before {
+    content: "/";
 }
